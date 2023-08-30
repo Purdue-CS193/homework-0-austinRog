@@ -8,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Austin Rogers's First CS193 Homework
 
+- Very Informative for Freshmen
+- Not a Hard Class
+- Only Once a Week
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
